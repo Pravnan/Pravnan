@@ -15,6 +15,10 @@
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/praveenan-pirabaharan-1a8246275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/praveenan-pirabaharan-1a8246275/" height="30" width="40" /></a><a href="https://instagram.com/pravnsdesign" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="pravnsdesign" height="30" width="40" /></a><a href="https://www.behance.net/Praveenan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/behance.svg" alt="https://www.behance.net/Praveenan" height="30" width="40" /></a></p>
+  </div>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWVmNzhkaHRkODlkNjJ1ZDdhbTAwbm16ZzB1bjJibDN6NmZwcnBkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5wWf7GR2nhgamhRnEuA/giphy.gif" width="200" style="margin-left: auto;" />
+</div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
